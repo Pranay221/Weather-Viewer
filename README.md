@@ -2,6 +2,8 @@
 
 
 ## Screenshot
+
+
 ![](screenshot.png)
 
 The API provider: http://www.OpenWeatherMap.org
