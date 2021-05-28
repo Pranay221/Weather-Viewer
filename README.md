@@ -2,7 +2,7 @@
 
 
 ## Screenshot
-<img src="https://github.com/Pranay221/Weather-Viewer/screenshot.png">
+<img src="https://github.com/Pranay221/Weather-Viewer/screenshot.PNG">
 
 The API provider: http://www.OpenWeatherMap.org
 
